@@ -1,2 +1,3 @@
 # hello-world1
-I am learning how to use github
+I just started coding and the only language i know is source which is a variant of JavaScript and pretty useless...
+I might not do that well this sem (touchwood) so god bless me and my grades :)
